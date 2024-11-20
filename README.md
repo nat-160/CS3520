@@ -3,4 +3,4 @@
 _Title: Symbolic Programming_  
 _School: Cal Poly Pomona_  
 _Professor: Edwin Rodríguez_  
-_Semester: Fall 2023_
+_Semester: Fall 2022_
